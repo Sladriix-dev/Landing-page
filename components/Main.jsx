@@ -8,10 +8,10 @@ const main = () => {
           <div className="mr-auto place-self-center lg:col-span-7">
             <h1
               data-aos="fade-right"
-              className="max-w-2xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white"
+              className="max-w-3xl mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl xl:text-6xl dark:text-white"
             >
-              Création de produits <br />
-              et de marques digitaux
+              Création digital <br />
+              de produits et de marques
             </h1>
             <p
               data-aos="fade-right"
