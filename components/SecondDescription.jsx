@@ -42,7 +42,7 @@ const secondsedcription = () => {
                 href="#"
                 className="inline-flex items-center text-base font-medium text-purple-600 hover:text-purple-800 dark:text-purple-500 dark:hover:text-purple-700"
               >
-                Explorer le guide de légalité
+                Explorez le guide de légalité
                 <svg
                   className="w-5 h-5 ml-1"
                   fill="currentColor"
