@@ -1,6 +1,7 @@
 import Main from "@/components/Main"
 import Header from "@/components/Header"
 import FirstDescription from "@/components/FirstDescription"
+import SecondDescription from "@/components/SecondDescription"
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Header />
       <Main />
       <FirstDescription />
+      <SecondDescription />
     </>
   )
 }
