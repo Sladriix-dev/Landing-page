@@ -9,6 +9,7 @@ import "aos/dist/aos.css";
 import { useEffect } from "react";
 import FAQ from "@/components/FAQ";
 import FreeTrial from "@/components/FreeTrial";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   useEffect(() => {
@@ -24,6 +25,7 @@ export default function Home() {
       <Card />
       <FAQ />
       <FreeTrial />
+      <Footer />
     </>
   );
 }
