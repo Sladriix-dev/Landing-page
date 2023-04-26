@@ -5,12 +5,6 @@ const FirstDescription = () => {
         <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
           <div className="sm:text-lg text-gray-400">
             <h2
-              data-aos="fade-up"
-              data-aos-offset="200"
-              data-aos-delay="30"
-              data-aos-duration="800"
-              data-aos-easing="ease-in-out"
-              data-aos-once="false"
               className="text-white font-extrabold text-3xl tracking-tight mb-5"
             >
               Travaillez avec des outils que vous utilisez
