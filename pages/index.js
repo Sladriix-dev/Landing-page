@@ -3,6 +3,7 @@ import Header from "@/components/Header"
 import FirstDescription from "@/components/FirstDescription"
 import SecondDescription from "@/components/SecondDescription"
 import Quote from "@/components/Quote"
+import Card from "@/components/Card"
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <FirstDescription />
       <SecondDescription />
       <Quote />
+      <Card />
     </>
   )
 }
